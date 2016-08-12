@@ -1,0 +1,12 @@
+# General
+general.wet=Mouillé
+
+# Tiles
+tile.mining_tnt.name=TNT Foreuse
+tile.mining_tnt.name_strength=Force
+
+# Creative tabs
+itemGroup.miningtnt=TNT Foreuse
+
+# Items
+item.throwable_mining_tnt.name=TNT Foreuse lançable

@@ -1,0 +1,22 @@
+{
+	"variants" : {
+		"normal" : {
+			"model" : "miningtnt:mining_tnt"
+		},
+		"fortune=0" : {
+			"model" : "miningtnt:mining_tnt"
+		},
+        "fortune=1" : {
+			"model" : "miningtnt:mining_tnt"
+		},
+        "fortune=2" : {
+			"model" : "miningtnt:mining_tnt"
+		},
+        "fortune=3" : {
+			"model" : "miningtnt:mining_tnt"
+		},
+        "fortune=4" : {
+			"model" : "miningtnt:mining_tnt"
+		}
+	}
+}

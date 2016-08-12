@@ -1,0 +1,16 @@
+[
+{
+  "modid": "miningtnt",
+  "name": "Mining Tnt",
+  "description": "The Mining Tnt mod adds a new way of caving with a new set of tnt : 8 strength sizes which can contains silk touch or fortune.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/SCAREXgaming/MiningTnt",
+  "updateUrl": "https://github.com/SCAREXgaming/MiningTnt/releases",
+  "authorList": ["SCAREX"],
+  "credits": "Mosca421",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

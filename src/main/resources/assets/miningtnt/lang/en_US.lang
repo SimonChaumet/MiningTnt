@@ -1,0 +1,12 @@
+# General
+general.wet=Wet
+
+# Tiles
+tile.mining_tnt.name=Mining TNT
+tile.mining_tnt.name_strength=Strength
+
+# Creative tabs
+itemGroup.miningtnt=Mining TNT
+
+# Items
+item.throwable_mining_tnt.name=Throwable Mining Tnt
