@@ -11,4 +11,4 @@ License
 
 Pull requests
 -
-If you want to suggest pull requests use my [Formatter](https://raw.githubusercontent.com/SCAREXgaming/SCAREXgaming.github.io/master/Fortmatter.xml).
+If you want to suggest pull requests use my [Formatter](https://raw.githubusercontent.com/SCAREXgaming/SCAREXgaming.github.io/master/Formatter.xml).
