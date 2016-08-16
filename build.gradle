@@ -141,12 +141,10 @@ if (file('private.properties').exists()) {
             "build/libs/${archivesBaseName}-${version}.jar"
         ]
     }
-    
-    task fetchTags << {
+
+    createForgeChangelog.doFirst {
         try {
-            "git fetch --tags".execute()
+            "git pull --tags".execute().waitFor()
         } catch (all) {}
     }
-
-    githubRelease.finalizedBy 'fetchTags'
 }
