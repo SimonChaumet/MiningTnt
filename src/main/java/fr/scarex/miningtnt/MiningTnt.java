@@ -35,12 +35,13 @@ import net.minecraftforge.oredict.RecipeSorter;
  * @author SCAREX
  *
  */
-@Mod(modid = MiningTnt.MODID, name = MiningTnt.NAME, version = MiningTnt.VERSION)
+@Mod(modid = MiningTnt.MODID, name = MiningTnt.NAME, version = MiningTnt.VERSION, updateJSON = MiningTnt.UPDATE_JSON)
 public class MiningTnt
 {
     public static final String MODID = "miningtnt";
     public static final String NAME = "Mining Tnt";
     public static final String VERSION = "@VERSION@";
+    public static final String UPDATE_JSON = "https://raw.githubusercontent.com/SCAREXgaming/SCAREXgaming.github.io/master/changelog-MiningTnt.json";
 
     public static BlockMiningTnt BLOCK_MINING_TNT;
     public static ItemThrowableMiningTnt ITEM_THROWABLE_MINING_TNT;
